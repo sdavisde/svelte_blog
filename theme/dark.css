@@ -1,0 +1,8 @@
+:root {
+    --color-lightest: hsl(0, 100%, 50%);
+    --color-lighter: hsl(0, 45%, 43%);
+    --color-light: hsl(0, 56%, 41%);
+    --color-strong: hsl(0, 43%, 21%);
+    --color-stronger: hsl(0deg, 0%, 20%);
+    --color-strongest: hsl(0deg, 0%, 0%);
+  }
